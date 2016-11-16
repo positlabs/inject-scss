@@ -1,0 +1,25 @@
+{
+  "name": "inject-scss",
+  "version": "1.0.0",
+  "description": "Node util for generating s*ss variables from js objects",
+  "main": "inject-scss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/positlabs/inject-scss.git"
+  },
+  "keywords": [
+    "scss",
+    "sass",
+    "node",
+    "util"
+  ],
+  "author": "Josh Beckwith <josh@positlabs.com> (https://github.com/positlabs)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/positlabs/inject-scss/issues"
+  },
+  "homepage": "https://github.com/positlabs/inject-scss#readme"
+}
