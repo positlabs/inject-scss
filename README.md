@@ -1,7 +1,13 @@
 # inject-scss
 Node util for generating s*ss variables from js objects
 
+[![npm version](https://badge.fury.io/js/inject-scss.svg)](https://badge.fury.io/js/inject-scss)
+
+`npm install --save inject-scss`
+
 ```javascript
+	
+	var scssInjector = require('inject-scss')
 	var path = require('path')
 	var fs = require('fs')
 
@@ -18,3 +24,4 @@ Node util for generating s*ss variables from js objects
 	// Then, in your scss file...
 	@import './_inject.scss'
 ```
+

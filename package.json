@@ -1,6 +1,6 @@
 {
   "name": "inject-scss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node util for generating s*ss variables from js objects",
   "main": "inject-scss.js",
   "scripts": {
